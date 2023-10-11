@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
-The project creates applications to Extract, Transform and Load data from a operational database for our client Terriffic Totes. The data is archived in a data lake, and is made available in a remodelled OLAP data warehouse hosted in AWS.
+The project creates applications to Extract, Transform and Load data from an operational database for our client Terriffic Totes. The data is archived in a data lake, and is made available in a remodelled OLAP data warehouse hosted in AWS.
 
 - [ETL Totesys Project -Various Artists](#etl-totesys-project--various-artists)
   - [Features](#features)
