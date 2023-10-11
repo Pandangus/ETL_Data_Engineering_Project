@@ -34,7 +34,7 @@ The project creates applications to Extract, Transform and Load data from an ope
 - Extensive testing and documentation of main applications and utility functions
 
 ## Technologies
-The project uses a number of technologies and AWS serviuce
+The project uses a number of technologies and AWS services
 - **Programming:** Python, SQL, HCL
 - **Database:** PostgreSQL
 - **AWS Services:** [IAM](https://aws.amazon.com/iam/), [RDS](https://aws.amazon.com/rds/), [Lambda](https://aws.amazon.com/lambda/), [S3](https://aws.amazon.com/s3/), [Secrets Manager](https://aws.amazon.com/secrets-manager/), [Cloudwatch](https://aws.amazon.com/cloudwatch/), [SNS](https://aws.amazon.com/sns/)
